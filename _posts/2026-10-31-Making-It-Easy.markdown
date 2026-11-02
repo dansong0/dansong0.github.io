@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Making It Easy
-excerpt: As within, so without. There is a guarantee of suffering in life, but the more interesting path is decentering it through love and enthusiasm.
+excerpt: As within, so without. There is a guarantee of suffering in life. Many people see the alleviation of suffering as the goal.
 ---
 
 As within, so without.  There is a guarantee of suffering in life.  Many people see the alleviation of suffering as the goal.  One of the four noble truths of buddhism is just that: "suffering in this world is endless, but I vow to end it.  I think the most direct way to accomplish this is slightly roundabout.

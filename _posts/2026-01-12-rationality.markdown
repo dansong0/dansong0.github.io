@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Rationality
-excerpt: Rationality is a useful ruleset, like the rules of basketball. Trying to live an entire life by it is about as useful as living by FIBA rules off the court.
+excerpt: When I step on the court, I expect the rules of basketball to apply. When I head home, I don’t expect to hear a whistle or see anyone shooting free throws. Rationality is a ruleset that has grown far beyond its arena.
 ---
 
 When I step on the court, I expect the rules of basketball to apply.  When I head home, I don’t expect to hear a whistle or see anyone shooting free throws.  Rationality is a ruleset that has grown far beyond its arena.  It is useful in aspects of my life, and a fair bit more than the rules of basketball.  But attempting to live life rationally is about as useful as attempting to live using a FIBA ruleset.  At the same time, it is so pervasive that I think that there is no other way.

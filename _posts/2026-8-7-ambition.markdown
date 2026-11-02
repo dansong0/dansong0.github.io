@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Ambition
-excerpt: Modern ambition is usually about money and status. Doing nothing, if it's what you actually want, can be the more ambitious path.
+excerpt: Modern ambition is numerical; growth-oriented. Ambition is almost wholly associated with money, status, creation, empire. Ambition is an expression of lofty goals, but what of individual direction?
 ---
 
 Modern ambition is numerical; growth-oriented.  Ambition is almost wholly associated with money, status, creation, empire.  Ambition is an expression of lofty goals, but what of individual direction?  I think the latter is often forgotten.  I think, doing nothing in this day and age, is ambitious and aspirational.  Have you tried it?  On paper, it is easy, but actually quite difficult in practice.  Sustaining yourself is a bit harder obviously.  There's friends and pests in your ear asking, "what are you going to do?".  You will undoubtedly question yourself.  But if it's what you want, even for just a time, it is an ambitious task.
