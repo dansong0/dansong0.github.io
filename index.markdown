@@ -1,8 +1,8 @@
 ---
 layout: home
+title: Introduction
 ---
-<br/>
-# Introduction
+
 Philosophy is not meant to be discussed - it is meant to be lived.
 
 The service I offer is guidance and counsel for the soul.
