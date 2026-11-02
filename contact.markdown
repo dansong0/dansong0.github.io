@@ -1,7 +1,7 @@
 ---
-layout: page
-title: "Contact"
-permalink: /contact
+layout: single
+title: Contact
+permalink: /contact/
 ---
 
 One of the most important things any teacher can show you, is that it can be done.

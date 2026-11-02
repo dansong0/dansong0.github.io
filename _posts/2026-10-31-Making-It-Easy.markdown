@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Making It Easy
 excerpt: As within, so without. There is a guarantee of suffering in life, but the more interesting path is decentering it through love and enthusiasm.
 ---

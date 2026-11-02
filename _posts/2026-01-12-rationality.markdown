@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Rationality
 excerpt: Rationality is a useful ruleset, like the rules of basketball. Trying to live an entire life by it is about as useful as living by FIBA rules off the court.
 ---

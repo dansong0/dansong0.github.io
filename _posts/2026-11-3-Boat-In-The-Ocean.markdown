@@ -1,3 +1,9 @@
+---
+layout: single
+title: Boat In The Ocean
+excerpt: The masculine is like a boat and the feminine like the ocean. We live in an age of the conscious that has lost touch with the subconscious force that shapes it.
+---
+
 I think it was Jung that said the masculine is like a boat, and the feminine is like the ocean.  I think in the same way, the feminine is like the subconscious, and the masculine is the conscious.  The subconscious is significantly more powerful and endlessly bountiful, while the conscious can be directed to great effect, but limited in resources.  It's an age of the masculine - the conscious.  But not conscious in the sense of awareness.  We are conscious of our capacity to think and solve problems, but disconnected from the compelling force that shapes that action.
 
 When people are unconscientious, their attempt to ignore their own conscience causes it to manifest physically.  They project it onto people who behave conscientiously.  That is why you see, for example, people who despise Greta Thunberg.  They hope to in one motion smite her, and their conscience.  But it's futile - the unconscious/conscience has no body that can be destroyed.  It will inevitably take shape again, and the ignored internal battle will become an external one once again.

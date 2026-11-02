@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Deserving Pt1
 excerpt: All my life I got by on the bare minimum, even when I could afford more. At the heart of it was a belief that I didn't deserve nice things.
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Get Big
 excerpt: I was always a sensitive kid who tried to toughen up by disconnecting. Now I hold the discomfort and get bigger instead of smaller.
 ---

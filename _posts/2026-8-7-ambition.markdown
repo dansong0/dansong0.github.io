@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Ambition
 excerpt: Modern ambition is usually about money and status. Doing nothing, if it's what you actually want, can be the more ambitious path.
 ---
