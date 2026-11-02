@@ -1,3 +1,9 @@
+---
+layout: post
+title: Making It Easy
+excerpt: As within, so without. There is a guarantee of suffering in life, but the more interesting path is decentering it through love and enthusiasm.
+---
+
 As within, so without.  There is a guarantee of suffering in life.  Many people see the alleviation of suffering as the goal.  One of the four noble truths of buddhism is just that: "suffering in this world is endless, but I vow to end it.  I think the most direct way to accomplish this is slightly roundabout.
 
 The more interesting thing is the things that are awesome.  The pains are very acceptable if you make love an inextricable part of your life.  So you see so many products in the marketplace that reduce pain and remove friction.  But where are the products that will bring joy?  Ultimately no product can.  Only you can.  The products that bring you joy have no power intrinsically - they are only vehicles for your own enthusiasm - magnified and reflected back into you.

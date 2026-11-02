@@ -1,5 +1,7 @@
 ---
 layout: post
+title: Deserving Pt1
+excerpt: All my life I got by on the bare minimum, even when I could afford more. At the heart of it was a belief that I didn't deserve nice things.
 ---
 
 All my life, I would try and get by on the bare minimum.  One month when I was living in the beautiful city of Sunnyvale, I tried to spend as little money as I could on food that month.  I would buy onions, tomatoes, the occasional green vegetable, canned tuna, and some assortment of garlic and ginger.  My only splurge was fresh salmon here and there.  I spent less than $150 that month.  It was useful, to know if I was really in the trenches, I could feed myself without too much trouble.
